@@ -1,0 +1,1105 @@
+{
+ "model": "clef-flash",
+ "results": [
+  {
+   "id": 1,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.856,
+    "toxic": 0.0628,
+    "spam": 0.0812
+   },
+   "confidence": 0.615
+  },
+  {
+   "id": 2,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8734,
+    "toxic": 0.0598,
+    "spam": 0.0668
+   },
+   "confidence": 0.6562
+  },
+  {
+   "id": 3,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0185,
+    "toxic": 0.0128,
+    "spam": 0.9687
+   },
+   "confidence": 0.9084
+  },
+  {
+   "id": 4,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8791,
+    "toxic": 0.0513,
+    "spam": 0.0696
+   },
+   "confidence": 0.6704
+  },
+  {
+   "id": 5,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9264,
+    "toxic": 0.0269,
+    "spam": 0.0467
+   },
+   "confidence": 0.7918
+  },
+  {
+   "id": 6,
+   "type": "choice",
+   "choice": "toxic",
+   "probabilities": {
+    "acceptable": 0.0651,
+    "toxic": 0.902,
+    "spam": 0.0329
+   },
+   "confidence": 0.7284
+  },
+  {
+   "id": 7,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8617,
+    "toxic": 0.0575,
+    "spam": 0.0808
+   },
+   "confidence": 0.6285
+  },
+  {
+   "id": 8,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8816,
+    "toxic": 0.0517,
+    "spam": 0.0667
+   },
+   "confidence": 0.6766
+  },
+  {
+   "id": 9,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9203,
+    "toxic": 0.0362,
+    "spam": 0.0435
+   },
+   "confidence": 0.7752
+  },
+  {
+   "id": 10,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0347,
+    "toxic": 0.0223,
+    "spam": 0.943
+   },
+   "confidence": 0.8365
+  },
+  {
+   "id": 11,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.843,
+    "toxic": 0.0653,
+    "spam": 0.0917
+   },
+   "confidence": 0.5849
+  },
+  {
+   "id": 12,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9109,
+    "toxic": 0.0386,
+    "spam": 0.0505
+   },
+   "confidence": 0.7505
+  },
+  {
+   "id": 13,
+   "type": "choice",
+   "choice": "toxic",
+   "probabilities": {
+    "acceptable": 0.0753,
+    "toxic": 0.8828,
+    "spam": 0.0419
+   },
+   "confidence": 0.6801
+  },
+  {
+   "id": 14,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9399,
+    "toxic": 0.024,
+    "spam": 0.0361
+   },
+   "confidence": 0.828
+  },
+  {
+   "id": 15,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8774,
+    "toxic": 0.0124,
+    "spam": 0.1102
+   },
+   "confidence": 0.6731
+  },
+  {
+   "id": 16,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9367,
+    "toxic": 0.0271,
+    "spam": 0.0362
+   },
+   "confidence": 0.8191
+  },
+  {
+   "id": 17,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0323,
+    "toxic": 0.0232,
+    "spam": 0.9445
+   },
+   "confidence": 0.8404
+  },
+  {
+   "id": 18,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8731,
+    "toxic": 0.055,
+    "spam": 0.0719
+   },
+   "confidence": 0.6557
+  },
+  {
+   "id": 19,
+   "type": "choice",
+   "choice": "toxic",
+   "probabilities": {
+    "acceptable": 0.253,
+    "toxic": 0.6902,
+    "spam": 0.0568
+   },
+   "confidence": 0.3154
+  },
+  {
+   "id": 20,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9741,
+    "toxic": 0.0101,
+    "spam": 0.0158
+   },
+   "confidence": 0.9239
+  },
+  {
+   "id": 21,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.932,
+    "toxic": 0.0311,
+    "spam": 0.0369
+   },
+   "confidence": 0.8064
+  },
+  {
+   "id": 22,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9174,
+    "toxic": 0.0327,
+    "spam": 0.0499
+   },
+   "confidence": 0.7678
+  },
+  {
+   "id": 23,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9345,
+    "toxic": 0.0237,
+    "spam": 0.0418
+   },
+   "confidence": 0.8133
+  },
+  {
+   "id": 24,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.1123,
+    "toxic": 0.0291,
+    "spam": 0.8586
+   },
+   "confidence": 0.6259
+  },
+  {
+   "id": 25,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.896,
+    "toxic": 0.0435,
+    "spam": 0.0605
+   },
+   "confidence": 0.7126
+  },
+  {
+   "id": 26,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9524,
+    "toxic": 0.015,
+    "spam": 0.0326
+   },
+   "confidence": 0.8624
+  },
+  {
+   "id": 27,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8244,
+    "toxic": 0.1613,
+    "spam": 0.0143
+   },
+   "confidence": 0.5588
+  },
+  {
+   "id": 28,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8829,
+    "toxic": 0.0346,
+    "spam": 0.0825
+   },
+   "confidence": 0.6812
+  },
+  {
+   "id": 29,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.89,
+    "toxic": 0.0511,
+    "spam": 0.0589
+   },
+   "confidence": 0.6973
+  },
+  {
+   "id": 30,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9489,
+    "toxic": 0.0224,
+    "spam": 0.0287
+   },
+   "confidence": 0.8526
+  },
+  {
+   "id": 31,
+   "type": "choice",
+   "choice": "toxic",
+   "probabilities": {
+    "acceptable": 0.0496,
+    "toxic": 0.9172,
+    "spam": 0.0332
+   },
+   "confidence": 0.7672
+  },
+  {
+   "id": 32,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8265,
+    "toxic": 0.074,
+    "spam": 0.0995
+   },
+   "confidence": 0.5477
+  },
+  {
+   "id": 33,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0609,
+    "toxic": 0.046,
+    "spam": 0.8931
+   },
+   "confidence": 0.7052
+  },
+  {
+   "id": 34,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9714,
+    "toxic": 0.0121,
+    "spam": 0.0165
+   },
+   "confidence": 0.9162
+  },
+  {
+   "id": 35,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9625,
+    "toxic": 0.0128,
+    "spam": 0.0247
+   },
+   "confidence": 0.8908
+  },
+  {
+   "id": 36,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9421,
+    "toxic": 0.0151,
+    "spam": 0.0428
+   },
+   "confidence": 0.8343
+  },
+  {
+   "id": 37,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9155,
+    "toxic": 0.0137,
+    "spam": 0.0708
+   },
+   "confidence": 0.7649
+  },
+  {
+   "id": 38,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8755,
+    "toxic": 0.0536,
+    "spam": 0.0709
+   },
+   "confidence": 0.6616
+  },
+  {
+   "id": 39,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.972,
+    "toxic": 0.0096,
+    "spam": 0.0184
+   },
+   "confidence": 0.9178
+  },
+  {
+   "id": 40,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0935,
+    "toxic": 0.0538,
+    "spam": 0.8527
+   },
+   "confidence": 0.6081
+  },
+  {
+   "id": 41,
+   "type": "choice",
+   "choice": "toxic",
+   "probabilities": {
+    "acceptable": 0.1306,
+    "toxic": 0.8002,
+    "spam": 0.0692
+   },
+   "confidence": 0.4932
+  },
+  {
+   "id": 42,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.926,
+    "toxic": 0.0322,
+    "spam": 0.0418
+   },
+   "confidence": 0.7903
+  },
+  {
+   "id": 43,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8977,
+    "toxic": 0.0434,
+    "spam": 0.0589
+   },
+   "confidence": 0.7168
+  },
+  {
+   "id": 44,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8984,
+    "toxic": 0.0453,
+    "spam": 0.0563
+   },
+   "confidence": 0.7185
+  },
+  {
+   "id": 45,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.957,
+    "toxic": 0.0175,
+    "spam": 0.0255
+   },
+   "confidence": 0.8753
+  },
+  {
+   "id": 46,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0258,
+    "toxic": 0.0212,
+    "spam": 0.953
+   },
+   "confidence": 0.8639
+  },
+  {
+   "id": 47,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8875,
+    "toxic": 0.0506,
+    "spam": 0.0619
+   },
+   "confidence": 0.691
+  },
+  {
+   "id": 48,
+   "type": "choice",
+   "choice": "toxic",
+   "probabilities": {
+    "acceptable": 0.0575,
+    "toxic": 0.906,
+    "spam": 0.0365
+   },
+   "confidence": 0.7383
+  },
+  {
+   "id": 49,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9746,
+    "toxic": 0.0104,
+    "spam": 0.015
+   },
+   "confidence": 0.9254
+  },
+  {
+   "id": 50,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8606,
+    "toxic": 0.0613,
+    "spam": 0.0781
+   },
+   "confidence": 0.6258
+  },
+  {
+   "id": 51,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8877,
+    "toxic": 0.0466,
+    "spam": 0.0657
+   },
+   "confidence": 0.6917
+  },
+  {
+   "id": 52,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8793,
+    "toxic": 0.0489,
+    "spam": 0.0718
+   },
+   "confidence": 0.671
+  },
+  {
+   "id": 53,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8742,
+    "toxic": 0.0514,
+    "spam": 0.0744
+   },
+   "confidence": 0.6585
+  },
+  {
+   "id": 54,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0249,
+    "toxic": 0.0176,
+    "spam": 0.9575
+   },
+   "confidence": 0.8767
+  },
+  {
+   "id": 55,
+   "type": "choice",
+   "choice": "toxic",
+   "probabilities": {
+    "acceptable": 0.1219,
+    "toxic": 0.8287,
+    "spam": 0.0494
+   },
+   "confidence": 0.5561
+  },
+  {
+   "id": 56,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8609,
+    "toxic": 0.0612,
+    "spam": 0.0779
+   },
+   "confidence": 0.6264
+  },
+  {
+   "id": 57,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8717,
+    "toxic": 0.0538,
+    "spam": 0.0745
+   },
+   "confidence": 0.6523
+  },
+  {
+   "id": 58,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8715,
+    "toxic": 0.0558,
+    "spam": 0.0727
+   },
+   "confidence": 0.652
+  },
+  {
+   "id": 59,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9201,
+    "toxic": 0.0344,
+    "spam": 0.0455
+   },
+   "confidence": 0.7747
+  },
+  {
+   "id": 60,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8991,
+    "toxic": 0.0395,
+    "spam": 0.0614
+   },
+   "confidence": 0.7205
+  },
+  {
+   "id": 61,
+   "type": "choice",
+   "choice": "toxic",
+   "probabilities": {
+    "acceptable": 0.0526,
+    "toxic": 0.9093,
+    "spam": 0.0381
+   },
+   "confidence": 0.7465
+  },
+  {
+   "id": 62,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8847,
+    "toxic": 0.0509,
+    "spam": 0.0644
+   },
+   "confidence": 0.6842
+  },
+  {
+   "id": 63,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0716,
+    "toxic": 0.0331,
+    "spam": 0.8953
+   },
+   "confidence": 0.7116
+  },
+  {
+   "id": 64,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8487,
+    "toxic": 0.0596,
+    "spam": 0.0917
+   },
+   "confidence": 0.5984
+  },
+  {
+   "id": 65,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9084,
+    "toxic": 0.0322,
+    "spam": 0.0594
+   },
+   "confidence": 0.7445
+  },
+  {
+   "id": 66,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8672,
+    "toxic": 0.0549,
+    "spam": 0.0779
+   },
+   "confidence": 0.6417
+  },
+  {
+   "id": 67,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9018,
+    "toxic": 0.0434,
+    "spam": 0.0548
+   },
+   "confidence": 0.7272
+  },
+  {
+   "id": 68,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9718,
+    "toxic": 0.0127,
+    "spam": 0.0155
+   },
+   "confidence": 0.9173
+  },
+  {
+   "id": 69,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.7977,
+    "toxic": 0.1852,
+    "spam": 0.0171
+   },
+   "confidence": 0.5064
+  },
+  {
+   "id": 70,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9077,
+    "toxic": 0.0281,
+    "spam": 0.0642
+   },
+   "confidence": 0.7432
+  },
+  {
+   "id": 71,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0455,
+    "toxic": 0.0263,
+    "spam": 0.9282
+   },
+   "confidence": 0.7965
+  },
+  {
+   "id": 72,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8718,
+    "toxic": 0.0539,
+    "spam": 0.0743
+   },
+   "confidence": 0.6526
+  },
+  {
+   "id": 73,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.908,
+    "toxic": 0.0386,
+    "spam": 0.0534
+   },
+   "confidence": 0.7432
+  },
+  {
+   "id": 74,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8949,
+    "toxic": 0.0468,
+    "spam": 0.0583
+   },
+   "confidence": 0.7097
+  },
+  {
+   "id": 75,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9577,
+    "toxic": 0.0184,
+    "spam": 0.0239
+   },
+   "confidence": 0.877
+  },
+  {
+   "id": 76,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.6973,
+    "toxic": 0.1256,
+    "spam": 0.1771
+   },
+   "confidence": 0.3002
+  },
+  {
+   "id": 77,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8569,
+    "toxic": 0.0647,
+    "spam": 0.0784
+   },
+   "confidence": 0.6168
+  },
+  {
+   "id": 78,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9253,
+    "toxic": 0.0286,
+    "spam": 0.0461
+   },
+   "confidence": 0.7886
+  },
+  {
+   "id": 79,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0284,
+    "toxic": 0.0228,
+    "spam": 0.9488
+   },
+   "confidence": 0.8524
+  },
+  {
+   "id": 80,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9023,
+    "toxic": 0.0431,
+    "spam": 0.0546
+   },
+   "confidence": 0.7283
+  },
+  {
+   "id": 81,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9382,
+    "toxic": 0.0189,
+    "spam": 0.0429
+   },
+   "confidence": 0.8235
+  },
+  {
+   "id": 82,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9265,
+    "toxic": 0.0132,
+    "spam": 0.0603
+   },
+   "confidence": 0.7933
+  },
+  {
+   "id": 83,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.7297,
+    "toxic": 0.2323,
+    "spam": 0.038
+   },
+   "confidence": 0.3819
+  },
+  {
+   "id": 84,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8688,
+    "toxic": 0.0579,
+    "spam": 0.0733
+   },
+   "confidence": 0.6452
+  },
+  {
+   "id": 85,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9592,
+    "toxic": 0.0158,
+    "spam": 0.025
+   },
+   "confidence": 0.8813
+  },
+  {
+   "id": 86,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0372,
+    "toxic": 0.0232,
+    "spam": 0.9396
+   },
+   "confidence": 0.8271
+  },
+  {
+   "id": 87,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8715,
+    "toxic": 0.0546,
+    "spam": 0.0739
+   },
+   "confidence": 0.6519
+  },
+  {
+   "id": 88,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9002,
+    "toxic": 0.0407,
+    "spam": 0.0591
+   },
+   "confidence": 0.7233
+  },
+  {
+   "id": 89,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8803,
+    "toxic": 0.0317,
+    "spam": 0.088
+   },
+   "confidence": 0.6754
+  },
+  {
+   "id": 90,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9708,
+    "toxic": 0.0114,
+    "spam": 0.0178
+   },
+   "confidence": 0.9143
+  },
+  {
+   "id": 91,
+   "type": "choice",
+   "choice": "toxic",
+   "probabilities": {
+    "acceptable": 0.3088,
+    "toxic": 0.6319,
+    "spam": 0.0593
+   },
+   "confidence": 0.2473
+  },
+  {
+   "id": 92,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8721,
+    "toxic": 0.0566,
+    "spam": 0.0713
+   },
+   "confidence": 0.6532
+  },
+  {
+   "id": 93,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8794,
+    "toxic": 0.0484,
+    "spam": 0.0722
+   },
+   "confidence": 0.6714
+  },
+  {
+   "id": 94,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0223,
+    "toxic": 0.0145,
+    "spam": 0.9632
+   },
+   "confidence": 0.8927
+  },
+  {
+   "id": 95,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9548,
+    "toxic": 0.0194,
+    "spam": 0.0258
+   },
+   "confidence": 0.8692
+  },
+  {
+   "id": 96,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9141,
+    "toxic": 0.0383,
+    "spam": 0.0476
+   },
+   "confidence": 0.7589
+  },
+  {
+   "id": 97,
+   "type": "choice",
+   "choice": "toxic",
+   "probabilities": {
+    "acceptable": 0.0702,
+    "toxic": 0.886,
+    "spam": 0.0438
+   },
+   "confidence": 0.6877
+  },
+  {
+   "id": 98,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.9664,
+    "toxic": 0.0111,
+    "spam": 0.0225
+   },
+   "confidence": 0.9018
+  },
+  {
+   "id": 99,
+   "type": "choice",
+   "choice": "spam",
+   "probabilities": {
+    "acceptable": 0.0331,
+    "toxic": 0.0178,
+    "spam": 0.9491
+   },
+   "confidence": 0.8534
+  },
+  {
+   "id": 100,
+   "type": "choice",
+   "choice": "acceptable",
+   "probabilities": {
+    "acceptable": 0.8927,
+    "toxic": 0.0462,
+    "spam": 0.0611
+   },
+   "confidence": 0.7042
+  }
+ ]
+}
