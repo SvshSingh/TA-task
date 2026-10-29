@@ -1,5 +1,5 @@
 Clef mistakes-(clef-flash)
-Clef got 95 of 100 right in my regrad. All 5 mistakes are toxic comments it let through as acceptable.
+Clef got 95 of 100 right in my regard. All 5 mistakes are toxic comments it let through as acceptable.
 
 Mistakes
 27: Marked as acceptable, should be toxic.
